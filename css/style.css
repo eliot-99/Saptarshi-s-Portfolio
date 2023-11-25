@@ -79,7 +79,7 @@ section{
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url('/images/home.jpg') no-repeat;
+    background: url('/images/home_2.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -254,7 +254,7 @@ width: 100%;
 .home-sci a:hover::before{
     width: 100%;
 }
-.home-imgHover{
+/* .home-imgHover{
     position: absolute;
     
     top: 0;
@@ -268,7 +268,7 @@ width: 100%;
 .home-imgHover:hover{
     background: var(--bg-color);
     
-}
+} */
 .about{
     display: flex;
     justify-content: center;
