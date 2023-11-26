@@ -140,7 +140,7 @@ section{
     width: 371px;
     height: 32px;
     position: relative;
-    top: 4px; 
+    top: 4px; bottom: 4px;
     display: inline;
     animation: move 24s infinite linear;
     color: #eba22c;
